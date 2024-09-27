@@ -1,5 +1,4 @@
 # how to build
-You can click the `build` button in  Qt Creator or just use the CLT in the workspace of qt as:
 
 ```bash
 colcon build
